@@ -21,7 +21,7 @@
 
 
 
-extern const unsigned int bullets_sprite_texcoords[] = {
+extern const uint16_t bullets_sprite_texcoords[] = {
  106, 50, 7, 7,				// 0
  60, 40, 7, 7,				// 1
  60, 52, 7, 7,				// 2

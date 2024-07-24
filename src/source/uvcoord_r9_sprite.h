@@ -21,7 +21,7 @@
 
 
 
-extern const unsigned int r9_sprite_texcoords[] = {
+extern const uint16_t r9_sprite_texcoords[] = {
  0, 0, 26, 16,				// 0
  26, 0, 26, 16,				// 1
  0, 16, 26, 16,				// 2

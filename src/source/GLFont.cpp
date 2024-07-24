@@ -42,7 +42,7 @@ GLFont::~GLFont()
 ******************************************************************************/
 int GLFont::Load( glImage              *_font_sprite,
 				   const unsigned int   numframes, 
-				   const unsigned int   *texcoords,
+				   const uint16_t       *texcoords,
 				   GL_TEXTURE_TYPE_ENUM type,
 				   int 	              	sizeX,
 				   int 	              	sizeY,

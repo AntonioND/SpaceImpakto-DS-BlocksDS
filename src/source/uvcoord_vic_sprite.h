@@ -21,7 +21,7 @@
 
 
 
-extern const unsigned int vic_sprite_texcoords[] = {
+extern const uint16_t vic_sprite_texcoords[] = {
  44, 72, 20, 20,				// 0
  0, 96, 20, 20,				// 1
  24, 72, 20, 20,				// 2

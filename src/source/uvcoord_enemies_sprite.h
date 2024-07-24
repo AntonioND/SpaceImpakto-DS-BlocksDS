@@ -21,7 +21,7 @@
 
 
 
-extern const unsigned int enemies_sprite_texcoords[] = {
+extern const uint16_t enemies_sprite_texcoords[] = {
  165, 160, 20, 20,				// 0
  225, 180, 20, 20,				// 1
  172, 116, 20, 20,				// 2

@@ -21,7 +21,7 @@
 
 
 
-extern const unsigned int viper_sprite_texcoords[] = {
+extern const uint16_t viper_sprite_texcoords[] = {
  0, 0, 32, 16,				// 0
  32, 0, 32, 16,				// 1
  0, 16, 32, 16,				// 2

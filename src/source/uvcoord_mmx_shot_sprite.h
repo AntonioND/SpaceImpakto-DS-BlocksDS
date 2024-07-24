@@ -21,7 +21,7 @@
 
 
 
-const unsigned int mmx_shot_sprite_texcoords[] = {
+const uint16_t mmx_shot_sprite_texcoords[] = {
  0, 0, 40, 32,				// 0
  0, 32, 40, 32,				// 1
  0, 64, 40, 32,				// 2

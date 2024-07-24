@@ -21,7 +21,7 @@
 
 
 
-extern const unsigned int transpormaboss_sprite_texcoords[] = {
+extern const uint16_t transpormaboss_sprite_texcoords[] = {
  0, 80, 32, 32,				// 0
  64, 0, 64, 38,				// 1
  0, 0, 64, 48,				// 2

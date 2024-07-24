@@ -21,7 +21,7 @@
 
 
 
-extern const unsigned int gluteus_boss_sprite_texcoords[] = {
+extern const uint16_t gluteus_boss_sprite_texcoords[] = {
  0, 0, 77, 89,				// 0
  0, 89, 32, 32,				// 1
  32, 89, 32, 32,				// 2

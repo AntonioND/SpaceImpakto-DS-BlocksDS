@@ -21,7 +21,7 @@
 
 
 
-extern const unsigned int centipede_head_sprite_texcoords[] = {
+extern const uint16_t centipede_head_sprite_texcoords[] = {
  0, 0, 64, 64,				// 0
  0, 64, 64, 64,				// 1
  0, 128, 64, 64,				// 2
